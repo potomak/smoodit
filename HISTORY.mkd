@@ -1,0 +1,3 @@
+0.0.1 - November 26, 2006
+-------------------------
+* [Initial release](https://github.com/potomak/smoodit/commit/...)
