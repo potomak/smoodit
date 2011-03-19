@@ -1,21 +1,25 @@
-#The Smood it Ruby Gem
+# The Smood it Ruby gem
 
-A Ruby wrapper for the Smood it REST API
+A Ruby wrapper for the Smood it REST API.
 
-##Documentation
+## Documentation
 
-The full Smood it API reference could be found at [http://smood.it/api](http://smood.it/api)
+The full Smood it API reference could be found at [http://smood.it/api](http://smood.it/api).
 
-##Installation
+## Installation
 
     gem install smoodit
 
-##Follow @smoodit on Twitter
+## Follow @smoodit on Twitter
 
 You should [follow @smoodit on Twitter](http://twitter.com/smoodit) for announcements,
 updates, and news about the smoodit gem.
 
-##Usage Examples
+## Example app
+
+Start hacking the Smood it platform forking this example app: [https://github.com/potomak/smoodit-example](https://github.com/potomak/smoodit-example).
+
+## Usage examples
 
     require "rubygems"
     require "smoodit"
@@ -108,7 +112,7 @@ updates, and news about the smoodit gem.
       end
     end
 
-##Contributing
+## Contributing
 
 In the spirit of [free software](http://www.fsf.org/licensing/essays/free-sw.html), **everyone** is encouraged to help improve this project.
 
@@ -128,7 +132,7 @@ Here are some ways *you* can contribute:
 All contributors will be added to the [HISTORY](https://github.com/potomak/smoodit/blob/master/HISTORY.mkd)
 file and will receive the respect and gratitude of the community.
 
-##Submitting an Issue
+## Submitting an issue
 
 We use the [GitHub issue tracker](http://github.com/potomak/smoodit/issues) to track bugs and
 features. Before submitting a bug report or feature request, check to make sure it hasn't already
@@ -137,7 +141,7 @@ bug report, please include a [Gist](http://gist.github.com/) that includes a sta
 details that may be necessary to reproduce the bug, including your gem version, Ruby version, and
 operating system. Ideally, a bug report should include a pull request with failing specs.
 
-##Submitting a Pull Request
+## Submitting a pull request
 
 1. Fork the project.
 2. Create a topic branch.
@@ -149,7 +153,7 @@ operating system. Ideally, a bug report should include a pull request with faili
 8. Commit and push your changes.
 9. Submit a pull request. Please do not include changes to the gemspec, version, or history file. (If you want to create your own version for some reason, please do so in a separate commit.)
 
-##Copyright
+## Copyright
 
 Copyright (c) 2010 Giovanni Cappellotto.
 See [LICENSE](https://github.com/potomak/smoodit/blob/master/LICENSE.mkd) for details.
